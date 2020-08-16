@@ -1,4 +1,4 @@
-from django.contrib import admin
 from .models import Board
+from django.contrib import admin
 
 admin.site.register(Board)
